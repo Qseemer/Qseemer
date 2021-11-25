@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Qseemer
+# 👋 Hi, I’m Qseemer
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Open Source
